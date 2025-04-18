@@ -14,7 +14,7 @@
 - [x] 洲崎 文男 （[往年のお写真など](https://webview.isho.jp/journal/detail/abs/10.11477/mf.1402107264?p=firstTab) [参考](https://www.google.com/search?q=%22%E6%B4%B2%E5%B4%8E%E6%96%87%E7%94%B7%22+%22%E9%80%9D%E5%8E%BB%22)）
 - [ ] 高野 浩一
 - [x] 高橋 尚
-- [ ] 滝田 栄一
+- [x] 滝田 栄一
 - [x] __谷垣 賢一郎__
 - [x] __寺尾 太郎__
 - [x] 丹羽 昇
