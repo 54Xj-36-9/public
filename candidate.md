@@ -4,11 +4,11 @@
 出発点を自分の最寄りにも簡単に変えられます。
 Googleマップでお店情報も見れるよ。
 
-### 南欧料理 マーケットレストラン AGIO ルミネ横浜店
+### 1. 南欧料理 マーケットレストラン AGIO ルミネ横浜店
 - https://maps.app.goo.gl/4Ug8AuoKyfXVdsKa8
 
-### オービカ モッツァレラバー 横浜店
+### 2. オービカ モッツァレラバー 横浜店
 - https://maps.app.goo.gl/v2nzVzXsYeqEeDTV8
 
-### シュマッツ・ビア・ダイニング シャル横浜 CIAL Yokohama ANNEX
+### 3. シュマッツ・ビア・ダイニング シャル横浜 CIAL Yokohama ANNEX
 - https://maps.app.goo.gl/7jDQ8ShhEW2nvfTE9
