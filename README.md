@@ -147,6 +147,7 @@ PayPayでの集金は事前(パーティープランA 3500円)と事後(男子�
 - 山下公園
 - 山下町公園
 - 横浜関帝廟
+- CAFE SUMIRE 15:15 - 15:55
 - [横浜関帝廟からCAFE SUMIRE(Googleマップ)](https://maps.app.goo.gl/RKBEH1Y9ta6v86jY6) (起点は例示、変更できるよ)
 
 ### 参加リスト
