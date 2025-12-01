@@ -11,12 +11,12 @@
 - [x] 石川 法人
 - [x] __石橋 孝一郎__
 - [ ] 大嶽 俊秀 (二方)
-- [x] 小野沢 昌行 （[瑠璃光寺](https://maps.app.goo.gl/va5qGeu6e96RqUE28)）
+- [x] 小野沢 昌行 [瑠璃光寺](https://maps.app.goo.gl/va5qGeu6e96RqUE28)
 - [x] __木村 拓治__
 - [ ] 車田 宏樹
 - [x] __牛膓 喜裕__
 - [x] __清水 智明__
-- [x] 洲崎 文男 （[往年のお写真など](https://webview.isho.jp/journal/detail/abs/10.11477/mf.1402107264?p=firstTab) [参考](https://www.google.com/search?q=%22%E6%B4%B2%E5%B4%8E%E6%96%87%E7%94%B7%22+%22%E9%80%9D%E5%8E%BB%22)）
+- [x] 洲崎 文男 [往年のお写真など](https://webview.isho.jp/journal/detail/abs/10.11477/mf.1402107264?p=firstTab) [参考](https://www.google.com/search?q=%22%E6%B4%B2%E5%B4%8E%E6%96%87%E7%94%B7%22+%22%E9%80%9D%E5%8E%BB%22)
 - [ ] 高野 浩一
 - [x] 高橋 尚
 - [x] 瀧田 栄一
@@ -25,7 +25,7 @@
 - [ ] 丹羽 昇
 - [x] __橋口 英幸__
 - [x] __橋本 聡__
-- [x] 平原 賢司 （[ご実家](https://maps.app.goo.gl/kpdkTyjwpZkmHck89)）
+- [x] 平原 賢司 [ご実家](https://maps.app.goo.gl/kpdkTyjwpZkmHck89)
 - [x] __枡田 至弘__
 - [x] 三浦 司
 - [x] __柳川 岳彦__
